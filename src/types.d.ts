@@ -1,0 +1,3 @@
+type Sound = {
+    title: string
+}
