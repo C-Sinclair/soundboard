@@ -1,3 +1,0 @@
-type Sound = {
-    title: string
-}
